@@ -1,4 +1,4 @@
-./memory για την δημιουργια του shared memory και αρχικοποιηση semaphore
-./reader με τα ζητουμενα flags για να διαβαστει ενα η παραπανω records 
-./writer με τα ζητουμενα flags για την αλλαγη του balance
-./readmemory <id> για την τυπωση του shared memory και την αποδεσμευση semaphores
+./memory to initialize shared memory and semaphores
+./reader with required flags to read one or more records
+./writer with required flagts to change the balance of a record
+./readmemory <id> to print the shared memory contents and release the semaphores and the memory segment
